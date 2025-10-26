@@ -271,7 +271,7 @@ This project was built for personal use, but if you'd like to contribute:
 This project is open source and available for personal and educational use.
 
 ---
-
+(More UI features to be added and Voice Functionality for non latin speeches to be added)
 ## 💝 Acknowledgments
 
 This project was built as a gift for a friend who needed a reliable, feature-rich translation tool. Special thanks to:
