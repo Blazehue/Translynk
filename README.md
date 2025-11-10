@@ -1,6 +1,6 @@
 # 🌐 Translynk
 
-**An AI-Powered Multi-Modal Translation Application**
+**An AI-Powered Multi-Modal Translation Application**(NEW VERSION COMIN SOON)
 
 > *This project was built with love for a friend of mine who wanted a powerful, easy-to-use translation tool that works seamlessly across different languages and input methods.*
 
