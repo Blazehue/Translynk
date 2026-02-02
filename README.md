@@ -1,4 +1,4 @@
-# Translynk
+# Translynk.
 
 **An AI-Powered Multi-Modal Translation Application**(NEW VERSION COMIN SOON)
 
